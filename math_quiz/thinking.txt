@@ -1,6 +1,7 @@
 
 1:
-Tudjuk hogy a vonat összesen 300+x(vonat hossza) távot tett meg 20s alatt. Az alagutban 5s volt egy lámpa alatt ami azt jelenti hogy a vonat a saját hosszát 5s alatt teszi meg. Tehát a vonat 300m 15s alatt teszi meg azaz 20m/s megy. A vonat hossza emiatt 100m mert 20m/s -el 5s alatt teszi meg a saját hosszát.
+Tudjuk hogy a vonat összesen 300+x(vonat hossza) távot tett meg 20s alatt. 
+Az alagutban 5s volt egy lámpa alatt ami azt jelenti hogy a vonat a saját hosszát 5s alatt teszi meg. Tehát a vonat 300m 15s alatt teszi meg azaz 20m/s megy. A vonat hossza emiatt 100m mert 20m/s -el 5s alatt teszi meg a saját hosszát.
 
 2:
 Legyen a 8cm kocka A, a 6cm B és a 2cm C. 
