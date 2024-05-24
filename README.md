@@ -1,4 +1,3 @@
-@@ -1,224 +1 @@
 # Nokia Hackathon (early 2024)
 
 **Általános információk:**
