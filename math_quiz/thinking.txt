@@ -82,8 +82,9 @@ Ha 21-et kell kivenni hogy biztos legyen piros, akkor 20 nem piros van, tehát 1
 
 8:
 Ha az átlók mentén 82cm^2 a terület összeg, és egy kisnégyzet 1cm^2. 
-Ez azt jelenti hogy 82 kiskocka van az átló mentén.
-Emiatt 82cm a nagy négyzet oldala, tehát 6724cm^2 a területe.
+Ez azt jelenti hogy 82 kiskocka van az átlók mentén.
+Emiatt egy átéó mentén 41 kiskocka van.
+Ebböl lehet tudni akkor hogy 41 a nagy négyzet oldala, tehát a területe 1681.
 
 9:
 Ezt az egészet vehetjük egy gráfnak ahol a csúcsok az emberek és a köszönés párok az élek.
