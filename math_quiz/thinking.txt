@@ -60,13 +60,13 @@ Tehát Juliska 12.5 km biciklizett.
 Emellet negyed körönként van 2 másik pont ami ráillik a körre a 4;3 és a 3;4. Összesen tehát 12 rácspont esik egy ilyen körre.
 
 5:
-A háromszög területét megkaphatjuk úgy hogy ha a határoló négyzetéből a három sarokhoz tartozó háromszöget. 
-	6×3-4×3/2-2×c/2-6×c/2=7
-	18-6-c-3c=7
-	12-4c=7
-	5=4c
-	c=5/4=1.25
-Tehát c-nek 1.25-nek kell lennie hogy a háromszög területe 7 legyen.
+A háromszög területét megkaphatjuk úgy hogy ha a határoló négyzetéből a három sarokhoz tartozó háromszögeket kivonjuk. 
+	6×3-4×3/2-2×c/2-6×(3-c)/2=7
+	18-6-c-9+3c=7
+	3+2c=7
+	4=2c
+	c=2
+Tehát c-nek 2-nek kell lennie hogy a háromszög területe 7 legyen.
 
 6:
 Ha sikban van:
